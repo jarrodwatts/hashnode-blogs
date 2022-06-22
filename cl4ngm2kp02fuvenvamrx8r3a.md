@@ -37,7 +37,7 @@ Let's explore it together and learn how we can improve our apps with this helpfu
 For this project I'll be using Next.js and TypeScript:
 
 ```bash
-npx create-nexct-app@latest --ts
+npx create-next-app@latest --ts
 ```
 
 Then I'll install the react-query library
