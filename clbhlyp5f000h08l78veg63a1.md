@@ -29,7 +29,7 @@ npx create-expo-app lens-react-native
 Change directories into the newly created project and open it up in your text editor!
 
 ```bash
-cd lens app # Change directories into your newly created project
+cd lens-react-native # Change directories into your newly created project
 code . # Open your project in Visual Studio Code
 ```
 
