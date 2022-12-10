@@ -23,7 +23,7 @@ npm install --global expo-cli
 Then, run the command below to create a new React Native project:
 
 ```bash
-npx expo install react-native-web@~0.18.9 react-dom@18.1.0 @expo/webpack-config@^0.17.2
+npx create-expo-app lens-react-native
 ```
 
 Change directories into the newly created project and open it up in your text editor!
@@ -38,7 +38,7 @@ code . # Open your project in Visual Studio Code
 If you want to preview your application on your browser rather than your phone during development, run the command below:
 
 ```bash
-npm install @expo/webpack-config@^0.17.2
+npx expo install react-native-web@~0.18.9 react-dom@18.1.0 @expo/webpack-config@^0.17.2
 ```
 
 This allows us to run `npm run web` to preview our application on `localhost` like so:
