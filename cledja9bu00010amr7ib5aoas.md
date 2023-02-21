@@ -4,7 +4,7 @@ In the past week, the race to launch an EVM-compatible ZK rollup has been heatin
 
 * [Polygon announced the launch date for their zkEVM mainnet](https://twitter.com/0xPolygon/status/1625529122561597440)
     
-* [zkSync launched their zkEVM mainnet](https://twitter.com/zksync/status/1626235292268240902) *(just two days later!)*
+* [zkSync launched their zkEVM mainnet]!(https://twitter.com/zksync/status/1626235292268240902) *(just two days later!)*
     
 
 Why's this happening? WTF is a zkEVM? How do I use one?
@@ -21,7 +21,7 @@ These were all built because Ethereum is *currently* too popular for what it is 
 
 This balance between decentralization, security, and scalability is known as the [scalability trilemma](https://ethereum.org/en/upgrades/vision/). The long-term vision of Ethereum is to achieve all three of these qualities.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1676680857126/2bb5ac1f-96e2-4c75-9ece-67fe7afc286b.png align="center")
+![blockchain scalability trilemma](https://cdn.hashnode.com/res/hashnode/image/upload/v1676680857126/2bb5ac1f-96e2-4c75-9ece-67fe7afc286b.png align="center")
 
 ## Why should we improve scalability?
 
@@ -54,13 +54,13 @@ In order for a side-chain to actually *be* a side-chain, it is required to have 
 
 Polygon PoS boasts a ~10,000x lower gas fee per transaction, and ~450x increase in transactions per second than Ethereum. Polygon PoS is awesome. Some of the biggest brands in the world have chosen Polygon as their partner; Adidas, Meta, Stripe, Reddit, and more.
 
-![Image](https://pbs.twimg.com/media/FpLekSCXwAMbZec?format=jpg&name=medium align="left")
+![Partners of Polygon](https://pbs.twimg.com/media/FpLekSCXwAMbZec?format=jpg&name=medium align="left")
 
 However, sidechains sacrifice *some* measure of decentralization or security to achieve this higher throughput.
 
 You can dive deeper into the risk assessment of scaling solutions on sites such as [L2BEAT](https://l2beat.com/scaling/risk). For example, if we take a look at Polygon PoS, we can see this:
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1675941834613/af699227-f18e-4940-a37a-bb1cca4362ad.png align="center")
+![Polygon PoS risk assessment L2BEAT](https://cdn.hashnode.com/res/hashnode/image/upload/v1675941834613/af699227-f18e-4940-a37a-bb1cca4362ad.png align="center")
 
 In addition, despite these sacrifices, Polygon PoS has had struggles with scalability several times in the past.
 
