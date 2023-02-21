@@ -4,7 +4,7 @@ In the past week, the race to launch an EVM-compatible ZK rollup has been heatin
 
 * [Polygon announced the launch date for their zkEVM mainnet](https://twitter.com/0xPolygon/status/1625529122561597440)
     
-* [zkSync launched their zkEVM mainnet]!(https://twitter.com/zksync/status/1626235292268240902) *(just two days later!)*
+* [zkSync launched their zkEVM mainnet](https://twitter.com/zksync/status/1626235292268240902) *(just two days later!)*
     
 
 Why's this happening? WTF is a zkEVM? How do I use one?
