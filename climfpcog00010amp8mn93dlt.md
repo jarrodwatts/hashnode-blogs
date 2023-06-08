@@ -281,13 +281,11 @@ This is true! As we just saw, Steam has already been enabling the buying & selli
 
 There are two counter-points I have to this:
 
-1. By relying on a service such as Steam to facilitate this marketplace, Steam is the one profiting; not you (the developer).
-    
+1) By relying on a service such as Steam to facilitate this marketplace, Steam is the one profiting; not you (the developer).
 
 There are incentives for the developer to control both the way that the assets work and the marketplace's conditions. For example, by implementing blockchain standard features such as royalty fees and platform fees, the game developer can ensure they are profiting whenever a buy/sell occurs from their community.
 
-1. Building a marketplace takes time, effort, and money
-    
+2) Building a marketplace takes time, effort, and money
 
 For some game development companies, creating a marketplace from scratch is likely, not feasible; so the choice is either to use Steam or to not implement a marketplace at all; neither of which is beneficial to the development company.
 
