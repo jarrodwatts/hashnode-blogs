@@ -105,11 +105,11 @@ Hence, this is **interactive**; you (the prover) and your friend (the verifier) 
 
 This makes up the three parts of an interactive ZK proof:
 
-1. **Witness**: The secret information the verifier wants to prove their knowledge of.
+1. **Witness**: The secret information the prover wants to prove their knowledge of.
     
 2. **Challenge**: The question that only someone with knowledge of the witness would *likely* be capable of answering; although could be a lucky guess.
     
-3. **Response**: The verifier's response to the challenge; containing the *(hopefully)* correct answer.
+3. **Response**: The prover's response to the challenge; containing the *(hopefully)* correct answer.
     
 
 Steps 2 and 3 are repeated until the verifier is satisfied.
