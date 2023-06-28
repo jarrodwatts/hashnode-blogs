@@ -12,7 +12,7 @@ tags: cryptocurrency, ethereum, web3, polygon, zero-knowledge-proofs
 
 Zero-knowledge (ZK) proofs are powering the most recent innovations in web3. They're already being used in products such as [Polygon's zkEVM](https://polygon.technology/polygon-zkevm) to bring verifiable scalability to Ethereum, and [Polygon ID](https://polygon.technology/polygon-id) to verify pieces of your identity without revealing any personal information.
 
-In one sentence: **ZK proofs allow you to prove that you without revealing the thing itself**. This has several real-world applications, such as verifying your age without providing your full license/passport information.
+In one sentence: **ZK proofs allow you to prove something without revealing the thing itself**. This has several real-world applications, such as verifying your age without providing your full license/passport information.
 
 But how does this *actually* work? What's happening behind the scenes to make this possible? In this post, I'll cover everything you need to know about ZK proofs, but leave out the math.
 
