@@ -12,7 +12,7 @@ tags: cryptocurrency, ethereum, web3, polygon, zero-knowledge-proofs
 
 Zero-knowledge (ZK) proofs are powering the most recent innovations in web3. They're already being used in products such as [Polygon's zkEVM](https://polygon.technology/polygon-zkevm) to bring verifiable scalability to Ethereum, and [Polygon ID](https://polygon.technology/polygon-id) to verify pieces of your identity without revealing any personal information.
 
-In one sentence: **ZK proofs allow you to prove that you know something without revealing the thing itself**. This has several real-world applications, such as verifying your age without providing your full license/passport information.
+In one sentence: **ZK proofs allow you to prove that you without revealing the thing itself**. This has several real-world applications, such as verifying your age without providing your full license/passport information.
 
 But how does this *actually* work? What's happening behind the scenes to make this possible? In this post, I'll cover everything you need to know about ZK proofs, but leave out the math.
 
@@ -85,11 +85,13 @@ At this point, your friend doesn't know which side you're on. But as a challenge
 
 In this simple example, this can lead to two outcomes:
 
-1) You entered side A, so you need the password to get through the gate to side B:
+1. You entered side A, so you need the password to get through the gate to side B:
+    
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1687826964322/fdef1845-21d0-4f40-8773-343426ab3ee0.png align="center")
 
-2) You entered side B, so you don't need the password; you can just walk back out:
+1. You entered side B, so you don't need the password; you can just walk back out:
+    
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1687827027133/40957851-bf55-4487-8a7f-9e6c3d63a066.png align="center")
 
