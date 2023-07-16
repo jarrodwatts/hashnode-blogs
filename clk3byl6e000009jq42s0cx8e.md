@@ -1,10 +1,10 @@
 ---
-title: "Comparing Every ZK-EVM Product"
+title: "The Ultimate ZK-EVM Comparison Guide"
 seoTitle: "Every ZK-EVM Explained (Polygon, Linea, zkSync & more)"
 seoDescription: "A comparison of every ZK-EVM, reviewing the developer experience, gas fees, bridges and more of Polygon zkEVM, Scroll, Taiko, zkSync Era, Linea and Kakarot"
 datePublished: Sat Jul 15 2023 01:29:40 GMT+0000 (Coordinated Universal Time)
 cuid: clk3byl6e000009jq42s0cx8e
-slug: comparing-every-zk-evm-product
+slug: the-ultimate-zk-evm-comparison-guide
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689314694483/fd46562f-c6f9-4da3-b0f8-23b939123061.png
 tags: ethereum, solidity, web3, smart-contracts, zkevm
 
