@@ -1,4 +1,13 @@
-# How to ACTUALLY Become a Web3 Developer in 2023
+---
+title: "How to ACTUALLY Become a Web3 Developer in 2023"
+seoTitle: "How To Become A Web3 Developer In 2023"
+seoDescription: "Learn the step-by-step roadmap to becoming a web3 developer in 2023. The ULTIMATE guide to learning smart contract development & web3 frontend development."
+datePublished: Fri Jan 06 2023 03:41:06 GMT+0000 (Coordinated Universal Time)
+cuid: clcjyzrdm000108lk63pv6be9
+slug: how-to-become-a-web3-developer-in-2023
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1672973826693/70fea59a-9c5d-420d-b1da-4bcb33246e7d.png
+
+---
 
 This is an **opinionated** guide to becoming a web3 developer in 2023.
 
